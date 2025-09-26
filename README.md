@@ -89,9 +89,20 @@ Through these projects, I demonstrate my ability to:
 
 I'm always interested in discussing data analytics opportunities and collaborations!
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
-- **Portfolio**: [This Repository]
+- **LinkedIn**: [Connect with me on LinkedIn](https://linkedin.com/in/your-profile)
+- **Email**: your.email@example.com
+- **GitHub**: [github.com/cezarciobanu44](https://github.com/cezarciobanu44)
+- **Portfolio**: [Data Analyst Portfolio](https://github.com/cezarciobanu44/Data-Analyst-Portfolio)
+
+---
+
+### 🤝 Let's Connect!
+
+I'm passionate about transforming data into business value and would love to discuss:
+- **Data Analytics Projects**: Collaboration opportunities and consulting
+- **Career Opportunities**: Full-time, contract, or freelance positions
+- **Knowledge Sharing**: Speaking engagements, mentoring, or technical discussions
+- **Business Intelligence**: Strategic insights and analytics solutions
 
 ---
 
