@@ -89,8 +89,7 @@ AdventureWorks is a sample database originally provided by Microsoft for demonst
 
 I'm always interested in discussing data analytics opportunities and collaborations!
 
-- **LinkedIn**: [Connect with me on LinkedIn](https://linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ciobanu-cezar-47b50b33a/)
 - **GitHub**: [github.com/cezarciobanu44](https://github.com/cezarciobanu44)
 - **Portfolio**: [Data Analyst Portfolio](https://github.com/cezarciobanu44/Data-Analyst-Portfolio)
 
