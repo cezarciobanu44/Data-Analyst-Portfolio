@@ -15,3 +15,15 @@ Canada shows a more consistent and high overall sales volume, with noticeable se
 France
 Explanation:
 Sales in France exhibit sharp spikes in several quarters, likely driven by promotional campaigns, product launches, or seasonal factors such as holiday shopping periods. However, the long spans of low sales volume indicate that outside these peak periods, demand is relatively muted, possibly due to market saturation or lower brand penetration. This pattern suggests episodic success rather than steady growth, and a potential opportunity to build sustained customer engagement through loyalty programs or targeted marketing.
+
+### Screenshot 10
+![Screenshot 2025-09-26 132502](Screenshots/Screenshot%202025-09-26%20132502.png)
+
+Salesperson/Employee Performance Commentary
+Top salespersons such as Linda and Jillian lead in volume consistently, driving significant revenue.
+
+Profit margin charts show variation, indicating some high-volume sellers may have lower margins, perhaps due to discounting or product mix.
+
+Sales performance varies by region and quarter, highlighting opportunities for focused sales force training and incentives.
+
+These insights support allocating resources to high-performing salespersons and regions with growth potential
