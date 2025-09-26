@@ -17,5 +17,9 @@ Alongside my technical expertise, I bring strong critical thinking and problem-s
 
 Thank you for visiting my portfolio! I welcome the chance to discuss my work and qualifications with you.
 
+## Demo
+
+![AdventureWorks Data Analysis Demo](4%20Insights%20On%20AdventureWorks%20Data/Recording.gif)
+
 ## Overview
 AdventureWorks is a sample database originally provided by Microsoft for demonstrating features of SQL Server and for training, learning, and development purposes. It models a fictitious, multinational manufacturing company—Adventure Works Cycles—that produces and sells bicycles and related products
