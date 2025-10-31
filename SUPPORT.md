@@ -29,7 +29,7 @@ If you're looking to cancel a subscription, you may have reached this repository
 
 If you have questions about the portfolio projects or potential collaboration:
 
-- **LinkedIn**: [Connect with me on LinkedIn](www.linkedin.com/in/cezar-ciobanu-47b50b33a)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/cezar-ciobanu-47b50b33a)
 - **GitHub**: [@cezarciobanu44](https://github.com/cezarciobanu44)
 - **Email**: Contact via LinkedIn or GitHub profile
 
