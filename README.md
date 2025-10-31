@@ -9,6 +9,8 @@
 
 Welcome to my Data Analyst Portfolio!
 
+> **Note**: This is a professional portfolio repository showcasing data analysis projects. This repository does not offer any subscription services, products, or paid memberships. If you're looking for support, please see [SUPPORT.md](SUPPORT.md).
+
 I am a data analyst skilled in  SQL, Excel, Power BI, and Tableau. My experience includes building dashboards, writing reports,  and merging large datasets to deliver actionable insights.
 
 This portfolio features projects that showcase my ability to analyze, visualize, and present data using tools like Power BI,  and SQL. Highlighting my ability to extract and combine data from multiple sources.
