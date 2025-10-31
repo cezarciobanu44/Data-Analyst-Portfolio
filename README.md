@@ -9,6 +9,8 @@
 
 Welcome to my Data Analyst Portfolio!
 
+> **Note**: This is a professional portfolio repository showcasing data analysis projects. This repository does not offer any subscription services, products, or paid memberships. If you're looking for support, please see [SUPPORT.md](SUPPORT.md).
+
 I am a data analyst skilled in  SQL, Excel, Power BI, and Tableau. My experience includes building dashboards, writing reports,  and merging large datasets to deliver actionable insights.
 
 This portfolio features projects that showcase my ability to analyze, visualize, and present data using tools like Power BI,  and SQL. Highlighting my ability to extract and combine data from multiple sources.
@@ -89,7 +91,7 @@ AdventureWorks is a sample database originally provided by Microsoft for demonst
 
 I'm always interested in discussing data analytics opportunities and collaborations!
 
-- **LinkedIn**: [Connect with me on LinkedIn](www.linkedin.com/in/cezar-ciobanu-47b50b33a)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/cezar-ciobanu-47b50b33a)
 - **GitHub**: [github.com/cezarciobanu44](https://github.com/cezarciobanu44)
 - **Portfolio**: [Data Analyst Portfolio](https://github.com/cezarciobanu44/Data-Analyst-Portfolio)
 
